@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lite Messenger</string>
+    <string name="edit_text_login_hint">Enter login…</string>
+    <string name="edit_text_password_hint">Enter password…</string>
+    <string name="edit_text_email_hint">Enter email…</string>
+    <string name="check_box_rememberme">Remember Me</string>
+    <string name="button_register">Register</string>
+    <string name="button_login">Login</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_enter">Enter</string>
+    <string name="button_register_now">Nothing account? Register!</string>
+    <string name="edit_text_enter_login_hint">Enter login or email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
